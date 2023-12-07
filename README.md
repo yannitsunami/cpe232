@@ -1,3 +1,2 @@
-# cpe232
-
+# Activity 2
 HELOW WORLD
